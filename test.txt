@@ -1,4 +1,9 @@
 aaaaa11111
 p这是合并分支
+<<<<<<< HEAD
 这是master分支合并内容
+=======
+这是mergedemo分支上的内容
+>>>>>>> mergedemo
+这是合并后的内容
 
